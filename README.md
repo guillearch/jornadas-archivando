@@ -1,6 +1,6 @@
 # Los archivos en los videojuegos
 
-[Enlace a la presentación](https://github.com/guillearch/jornadas-archivando/tree/docs/index.html).
+[Enlace a la presentación](https://guillearch.github.io/docs/jornadasArchivando.html#/).
 
 Presentación elaborada con [reveal.js](https://github.com/hakimel/reveal.js/) por [Guillermo Castellano](https://twitter.com/guillearch) para las "Jornadas Archivando: Retrospectivas de futuro" (León, 9 y 10 de noviembre 2017) organizadas por la [Fundación Sierra Pambley](http://www.sierrapambley.org/).
 
