@@ -6,4 +6,4 @@ Presentación elaborada con [reveal.js](https://github.com/hakimel/reveal.js/) p
 
 Contenido publicado bajo licencia [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-La presentación incluye capturas de pantalla de los videojuegos Fallout 3, Fallout 4, Guild Wars 2 y America's Army, cuyos derechos son propiedad de Bethesda Softworks, ArenaNet y el Departamento del Ejército de los Estados Unidos. La inclusión de estas imágenes se ha realizado con fines de investigación al amparo del artículo 32 de la Ley de Propiedad Intelectual española.
+La presentación incluye capturas de pantalla de los videojuegos Fallout 3, Fallout 4, Guild Wars 2, Undertale, Final Fantasy VII y America's Army, cuyos derechos son propiedad de Bethesda Softworks, ArenaNet, Toby Fox, Square Enix y el Departamento del Ejército de los Estados Unidos. La inclusión de estas imágenes se ha realizado con fines de investigación al amparo del artículo 32 de la Ley de Propiedad Intelectual española.
